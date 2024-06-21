@@ -34,11 +34,12 @@ Não permitido usar HTML puro, deve-se desenvolver os componentes React, afim de
 ## Banco de dados
 
 - Ao iniciar a aplicação, a lista de produtos e outras informações já devem ser previamente cadastradas. Isso é, ter uma base já alimentada para que ao iniciar a aplicação, já se tenha produtos e demais informações para o usuário usar;
-- Para armazenar os dados, pode-se utilizar do banco em memóia, uma api de terceiro, api própria, entre outros... (sugestão: [json-server](https://github.com/typicode/json-server/tree/v0))
+- Para armazenar os dados, pode-se utilizar do banco em memória, uma api de terceiro, api própria, entre outros... (sugestão: [json-server](https://github.com/typicode/json-server/tree/v0))
 
 ## Entrega
 
 Entrega programada até o dia **28/06/2024 ás 22:00**.
+
 Subir o código no seu GitHub em um repositório e enviar o link via email (deixar o repositório público).
 
 Email: 730115@profe.sed.sc.gov.br
