@@ -38,7 +38,7 @@ Não permitido usar HTML puro, deve-se desenvolver os componentes React, afim de
 
 ## Entrega
 
-Entrega programada até o dia **28/06/2024 ás 22:00**.
+Entrega programada até o dia **05/07/2024 ás 22:00**.
 
 Subir o código no seu GitHub em um repositório e enviar o link via email (deixar o repositório público).
 
